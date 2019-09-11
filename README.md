@@ -1,2 +1,2 @@
 # PythonBlockchain
-##A blockchain program written in pyhton
+A blockchain program written in python
